@@ -1,0 +1,40 @@
+#boladacopa {
+              display:block;
+              margin:auto;
+              height: 75px;
+              width: 75px;
+              animation-name:png1;
+              animation-duration: 2s;
+              animation-iteration-count: infinite;
+              animation-direction: normal;
+              animation-timing-function: steps(300);
+              animation-delay: 0,5s;
+             }
+
+@keyframes png1 {
+                  0% {position: absolute;left: 220px;top: 400px;}
+                  25% {position: absolute;left: 220px;top: 400px;}
+                  50% {position: absolute;left: 220px;top: 400px;}
+                  75% {position: absolute;left: 220px;top: 400px;}
+                  100% {position: absolute;left: 3000px;top: 100px;rotate: 360deg;}
+                }
+
+#mascote2 {
+            display:block;
+            margin:auto;
+            height: 250px;
+            width: 250px;
+            animation-name:png2;
+            animation-duration: 2s;
+            animation-iteration-count: infinite;
+            animation-direction: normal;
+            animation-timing-function: ease-in-out;
+          }
+
+@keyframes png2 {
+                  0% {position: absolute;left: 100px;top: 250px;}
+                  25% {position: absolute;left: 100px;top: 250px;rotate: 25deg}
+                  50% {position: absolute;left: 100px;top: 250px;rotate: 45deg}
+                  75% {position: absolute;left: 100px;top: 250px;rotate: -45deg;}
+                  100% {position: absolute;left: 100px;top: 250px;}
+                }

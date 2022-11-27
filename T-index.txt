@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <meta charset="utf-8">
+  <title>COPA DO MUNDO 2022</title>
+  <link  href="copa.png" rel="shortcut icon" type="text/css">
+
+  <style> 
+
+    h1 {background-color:green; color:yellow} 
+    h2 {text-align: center; background-color:green; color:yellow} 
+    h3 {background-color:green; color:yellow} 
+    h4 {background-color:gray}
+    h6 {background-color:green; color:yellow} 
+    body {background-image: url(download.jpg)}
+
+  </style>
+
+  <body>
+
+    <h1 align="center">COPA DO MUNDO 2022</h1>
+    <img src="mascote.png" alt="logotipo" title="mascote" width="350px">
+
+    <hr>
+    <br>
+
+      <h4>
+        <marquee>
+          <p>
+            <span style="color:red"> -COPA DO MUNDO 2022- </span>
+            <span style="color:orange"> -COPA DO MUNDO 2022- </span>
+            <span style="color:yellow"> -COPA DO MUNDO 2022- </span>
+            <span style="color:green"> -COPA DO MUNDO 2022- </span>
+            <span style="color:blue"> -COPA DO MUNDO 2022- </span>
+            <span style="color:purple"> -COPA DO MUNDO 2022- </span>
+            <span style="color:pink"> -COPA DO MUNDO 2022- </span>
+          </p>
+        </marquee>
+      </h4>
+
+    <hr>
+    <br>
+
+    <h3 align="center">
+      <p>Esse site vai falar sobre a copa do mundo de 2022 que irá acontecer em Catar,</p>
+      <p>um país no médio Oriente, aqui falaremos quais países irão participar, quem irá</p>
+      <p>enfrentar o Brasil primeiro e quando começará e terminará a copa</p>
+    </h3>
+
+    <hr>
+    <br>
+
+    <h2>QUEM ENFRENTARA O BRASIL PRIMEIRO?</h2>
+
+    <h2>
+
+      <table border="solid">
+
+        <thead>
+          <th>PAÍS</th>
+          <th>DIA</th>
+          <th>HORÁRIO</th>
+          <th>BANDEIRA</th>
+        </thead>
+
+        <tbody>
+          <td>Servia</td>
+          <td>24/11</td>
+          <td>16:00</td>
+          <td><img src="Servia.png" alt="logotipo" title="Servia" width="150px"></td>
+        </tbody>
+
+        <tbody>
+          <td>Suiça</td>
+          <td>28/11</td>
+          <td>13:00</td>
+          <td><img src="Suiça.png" alt="logotipo" title="Suiça" width="150px"></td>
+        </tbody>
+
+        <tbody>
+          <td>Camarões</td>
+          <td>02/12</td>
+          <td>16:00</td>
+          <td><img src="Camarões.png" alt="logotipo" title="Camarões" width="150px"></td>
+        </tbody>
+
+      </table>
+
+    </h2>
+
+    <hr>
+    <br>
+
+    <h6 align="center"> FEITO POR: </h6>
+    <h6 align="center"> Roberto Pereira Bica </h6>
+    <h6 align="center"> Lucas Celins Rodrigues </h6>
+    <h6 align="center"> Ranieri Quevedo </h6>
+
+  </body>
+
+</head>
+</html>
